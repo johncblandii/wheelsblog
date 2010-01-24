@@ -1,1 +1,4 @@
 This is a sample app to showcase the functionality in CFWheels. It is a very simple app but goes over a few key parts.
+
+FYI
+- The datasource is 'wheelsblog' since that is the name of the folder. You can explicitly set it in the configuration if you'd like.
