@@ -1,4 +1,9 @@
-This is a sample app to showcase the functionality in CFWheels. It is a very simple app but goes over a few key parts.
+This is a sample app to showcase the functionality in CFWheels. It is a very simple app and isn't in anyway meant to be seen as a real blog.
 
-FYI
-- The datasource is 'wheelsblog' since that is the name of the folder. You can explicitly set it in the configuration if you'd like.
+This app will grow as time goes on but for now it is showcasing Ajax functionality with Wheels.
+
+Notes:
+* Download, deploy /source somewhere [mine is http://wheelsblog.local], setup cf datasource [named 'wheelsblog'], and run /database/wheelsblog.sql script on it
+* Fill your db (manually) with dummy data (so you can see something)
+* Go to [domain]/blog/posts
+* Click on a blog post title
